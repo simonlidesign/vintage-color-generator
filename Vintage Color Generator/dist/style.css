@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+body .palette {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .palette .color {
+  width: 20%;
+  min-height: 32em;
+}

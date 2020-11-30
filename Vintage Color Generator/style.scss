@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    .palette{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        .color{
+            width: 20%;
+            min-height: 32em;
+        }
+    }
+}
